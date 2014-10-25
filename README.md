@@ -1,6 +1,6 @@
----
-title: "README for Wearable Computing Assignment"
----
+
+# Wearable Computing Assignment
+
 
 ## Run location
 
